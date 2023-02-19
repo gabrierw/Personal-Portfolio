@@ -543,19 +543,25 @@ html {
 /* seccion F O O T E R */
 /* *********************/
 
-footer {
+footer{
     background-color: #000;
     color: #fff;
     text-align: center;
     padding: 10px 0;
 }
-
+  
 footer a {
     text-decoration: none;
     color: #fff;
     display: inline-block;
     margin: 5px;
     font-size: 26px;
+}
+
+footer p{
+    margin-top: 0;
+    margin-bottom: 1rem;
+
 }
 /* *********************/
 /* seccion R E S P O N S I V E */
