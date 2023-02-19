@@ -36,6 +36,7 @@ html {
     justify-content: space-between;
     align-items: center;
     padding: 10px 20px;
+    height: 40px;
 }
 
 #inicio .contenido header .contenido-header h1 {
