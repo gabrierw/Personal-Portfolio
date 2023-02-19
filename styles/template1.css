@@ -153,6 +153,10 @@ html {
     color: #fff;
     display: none;
 }
+.container{
+
+    border-radius: 20px;
+}
 /* *********************/
 /* seccion S O B R E  M I */
 /* *********************/
