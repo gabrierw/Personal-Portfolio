@@ -547,7 +547,7 @@ footer {
     background-color: #000;
     color: #fff;
     text-align: center;
-    padding: 30px 0;
+    padding: 10px 0;
 }
 
 footer a {
@@ -645,4 +645,6 @@ footer a {
         width: 100%;
         margin-bottom: 15px;
     }
+
+    
 }
