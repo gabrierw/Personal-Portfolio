@@ -14,7 +14,7 @@ html {
 /* *********************/
 
 #inicio {
-  background: linear-gradient(rgb(173, 113, 1),whitesmoke);
+  background: linear-gradient(rgb(173, 113, 1),black);
   background-size: cover;
   background-position: center center;
   height: 100vh;
