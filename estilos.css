@@ -188,7 +188,7 @@ html {
   text-transform: uppercase;
   margin-bottom: 20px;
   letter-spacing: 1px;
-  margin-left: 60px;
+  margin-left: 50px;
 }
 
 #sobremi .sobremi p {
@@ -206,7 +206,7 @@ html {
   border: 1px solid #000;
   padding: 10px 20px;
   margin-top: 30px;
-  margin-left: 130px;
+  margin-left: 120px;
   transition: 0.5s;
 }
 
@@ -397,7 +397,7 @@ html {
 
 #portfolio {
   max-width: 1100px;
-  padding: 100px 0;
+  padding: 170px 0;
   margin: auto;
 }
 
